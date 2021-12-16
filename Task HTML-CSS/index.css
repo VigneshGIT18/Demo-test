@@ -1,0 +1,8 @@
+body{
+    background-color: lightgray;
+}
+.box-part{
+    background-color: white;
+    margin: 20px 0px;
+    padding: 60px 10px;
+}
